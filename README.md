@@ -1,6 +1,7 @@
 # OuO Network机场官网地址
 
-最新地址：[ouonet.work](https://login.ouonetwork.com/register?aff=qa6ttm1G)
+最新地址：[[ouonet.work](https://login.ouonetwork.com/register?aff=qa6ttm1G)]
+
 
 OuO Network
 
