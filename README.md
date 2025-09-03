@@ -16,8 +16,6 @@ OuO Network机场，高效稳定的SD-WAN线路，安全的hadowsocks Hash加密
 
 全球网络中继服务，随时随处尽情使用
 
-拥有Windows、MacOS、Android官方一键式客户端，使用方便防止失联。
-
 支付方式支持支付宝和微信，并且支持退款。
 
 ## OuO机场价格
