@@ -1,10 +1,10 @@
-# OuO机场官网地址
+# OuO Network机场官网地址
 
 最新地址：[ouonet.work](https://login.ouonetwork.com/register?aff=qa6ttm1G)
 
 ## OuO机场介绍
 
-OuO机场，高效稳定的SD-WAN线路，安全的hadowsocks Hash加密协议 ，完善的流媒体解锁。
+OuO Network机场，高效稳定的SD-WAN线路，安全的hadowsocks Hash加密协议 ，完善的流媒体解锁。
 
 拥有Windows、MacOS、Android官方一键式客户端，使用方便防止失联。
 
